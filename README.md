@@ -1,0 +1,2 @@
+# Footsetep-Audio-Classification-and-Elderly-Activity-Monitoring
+Footstep Audio Classification and Elderly Activity Monitoring: This repository contains two projects—1) Classifying footstep audio recordings to distinguish between individuals using machine learning models (Random Forest and CNN). 2) Analyzing PIR motion sensor data to monitor elderly activity and ensure safety through real-time alerts.
